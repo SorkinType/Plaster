@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = ddotaccent;
 kernLeft = KO_a;
 layers = (
@@ -6,16 +7,14 @@ layers = (
 layerId = m01;
 shapes = (
 {
-alignment = -1;
 ref = d;
 },
 {
-alignment = -1;
-pos = (-89,-169);
-ref = dotaccent;
+pos = (299,-341);
+ref = dotaccentcomb.case;
 }
 );
-width = 1534;
+width = 1450;
 }
 );
 note = uni1E0B;

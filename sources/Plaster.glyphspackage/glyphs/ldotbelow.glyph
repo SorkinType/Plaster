@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = ldotbelow;
 kernLeft = KO_l;
 kernRight = KO_l;

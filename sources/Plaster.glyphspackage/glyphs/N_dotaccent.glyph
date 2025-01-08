@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Ndotaccent;
 kernLeft = KO_Aogonek;
 kernRight = KO_N;

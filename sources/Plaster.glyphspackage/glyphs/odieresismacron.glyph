@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = odieresismacron;
 kernLeft = KO_odieresis;
 kernRight = KO_o;

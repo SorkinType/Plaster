@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 5;
 glyphname = Etilde;
 kernLeft = KO_H;
 kernRight = KO_E;

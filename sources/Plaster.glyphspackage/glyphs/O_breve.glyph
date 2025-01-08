@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Obreve;
 kernLeft = KO_O;
 kernRight = KO_O;

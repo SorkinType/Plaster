@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = rcommaaccent;
 kernLeft = KO_n;
 kernRight = KO_r;
@@ -8,6 +9,10 @@ layerId = m01;
 shapes = (
 {
 ref = r;
+},
+{
+pos = (386,0);
+ref = commaaccentcomb;
 }
 );
 width = 1311;

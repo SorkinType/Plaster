@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = ebreve;
 kernLeft = KO_a;
 kernRight = KO_e;

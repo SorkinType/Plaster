@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Bdotbelow;
 kernLeft = KO_Aogonek;
 kernRight = KO_B;

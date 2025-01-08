@@ -1,20 +1,19 @@
 {
+color = 5;
 glyphname = fdotaccent;
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-alignment = -1;
 ref = f;
 },
 {
-alignment = -1;
-pos = (-270,300);
-ref = dotaccent;
+pos = (341,980);
+ref = dotaccentcomb;
 }
 );
-width = 1535;
+width = 1158;
 }
 );
 note = uni1E1F;

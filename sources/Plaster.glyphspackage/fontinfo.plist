@@ -256,7 +256,7 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1531;
+value = 2053;
 },
 {
 name = typoDescender;
@@ -276,7 +276,7 @@ value = 800;
 },
 {
 name = hheaAscender;
-value = 1531;
+value = 2053;
 },
 {
 name = hheaDescender;
@@ -16878,8 +16878,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2025 The Plaster Project Authors (https://github.com/SorkinType/Plaster)with Reserved Font Name \"Plaster\".
-
+value = "Copyright 2025 The Plaster Project Authors (https://github.com/SorkinType/Plaster)
 This Font Software is licensed under the SIL Open Font License,
 Version 1.1. This license is available with a FAQ at:
 http://scripts.sil.org/OFL";
@@ -16907,10 +16906,6 @@ language = dflt;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
 }
 );
-},
-{
-key = licenseURL;
-value = "http://scripts.sil.org/OFL";
 },
 {
 key = manufacturers;

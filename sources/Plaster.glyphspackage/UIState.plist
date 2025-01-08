@@ -48,6 +48,8 @@ TEHCUDIV
 Cider 
 t-
 niďaid 
-TEHOXDIV "
+TEHOXDIV ",
+G,
+"/dotaccentcomb.case Ġ"
 );
 }

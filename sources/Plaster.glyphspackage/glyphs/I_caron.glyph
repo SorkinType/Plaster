@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Icaron;
 kernLeft = KO_I;
 kernRight = KO_I;

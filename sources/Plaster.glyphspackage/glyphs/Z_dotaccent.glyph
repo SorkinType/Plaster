@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Zdotaccent;
 kernLeft = KO_Z;
 kernRight = KO_Z;

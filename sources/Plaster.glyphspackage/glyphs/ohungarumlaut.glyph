@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = ohungarumlaut;
 kernLeft = KO_amacron;
 kernRight = KO_ohungarumlaut;

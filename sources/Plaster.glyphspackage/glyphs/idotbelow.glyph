@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = idotbelow;
 kernLeft = KO_idotaccent;
 kernRight = KO_idotaccent;

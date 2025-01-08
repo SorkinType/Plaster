@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Itilde;
 kernLeft = KO_Itilde;
 kernRight = KO_I;

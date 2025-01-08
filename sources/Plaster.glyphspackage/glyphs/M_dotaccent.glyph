@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Mdotaccent;
 kernLeft = KO_H;
 kernRight = KO_Mdotaccent;
@@ -7,16 +8,14 @@ layers = (
 layerId = m01;
 shapes = (
 {
-alignment = -1;
 ref = M;
 },
 {
-alignment = -1;
-pos = (679,0);
+pos = (737,0);
 ref = dotaccentcomb.case;
 }
 );
-width = 2380;
+width = 2247;
 }
 );
 note = uni1E40;

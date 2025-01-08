@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = idieresis;
 kernLeft = KO_idieresis;
 kernRight = KO_idieresis;

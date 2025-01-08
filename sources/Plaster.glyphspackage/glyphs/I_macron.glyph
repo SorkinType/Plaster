@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Imacron;
 kernLeft = KO_Imacron;
 kernRight = KO_Imacron;

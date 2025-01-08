@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = emacron;
 kernLeft = KO_amacron;
 kernRight = KO_e;
