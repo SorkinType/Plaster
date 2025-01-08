@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = idotless_ogonek;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (47,-52);
+ref = ogonekcomb;
+}
+);
+width = 856;
+}
+);
+}

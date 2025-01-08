@@ -10,7 +10,7 @@ tag = wght;
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Acaron Acircumflex Acircumflexdotbelow Adieresis Adieresismacron Adotaccent Agrave Amacron Aogonek Aring Atilde AE AEacute B Bdotaccent Bdotbelow Bhook C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Ddotaccent Ddotbelow Dhook Dtail Eth E Eacute Ebreve Ecaron Ecedilla Ecircumflex Ecircumflexdotbelow Edieresis Edotaccent Edotbelow Egrave Emacron Eogonek Eopen Etilde Eturned Schwa F Fdotaccent G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hcircumflex Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent Khook L Lacute Lcaron Lcommaaccent Ldot Ldotbelow Lslash M Macute Mdotaccent N Nacute Ncaron Ncommaaccent Ndotaccent Ndotbelow Ngrave Nhookleft Ntilde Eng O Oacute Obreve Ocaron Ocircumflex Ocircumflexdotbelow Odieresis Odieresismacron Odotbelow Ograve Ohungarumlaut Omacron Omacronacute Omacrongrave Oopen Oslash Otilde OE P Pdotaccent Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Germandbls T Tbar Tcaron Tcedilla Tdotaccent U Uacute Ubreve Ucircumflex Udieresis Udotbelow Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Yhook Ymacron Ytilde Z Zacute Zcaron Zdotaccent Saltillo Lcommaaccent.loclMAH Ncommaaccent.loclMAH Delta Omega";
+code = "A Aacute Abreve Acaron Acircumflex Acircumflexdotbelow Adieresis Adieresismacron Adotaccent Adotbelow Agrave Amacron Aogonek Aring Atilde AE AEacute B Bdotaccent Bdotbelow Bhook C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Ddotaccent Ddotbelow Dhook Dtail Eth E Eacute Ebreve Ecaron Ecedilla Ecircumflex Ecircumflexdotbelow Edieresis Edotaccent Edotbelow Egrave Emacron Eogonek Eopen Etilde Eturned Schwa F Fdotaccent G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hcircumflex Hdotbelow Hturned I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent Khook L Lacute Lcaron Lcommaaccent Ldot Ldotbelow Lslash M Macute Mdotaccent Mturned N Nacute Ncaron Ncommaaccent Ndotaccent Ndotbelow Ngrave Nhookleft Ntilde Eng O Oacute Obreve Ocaron Ocircumflex Ocircumflexdotbelow Odieresis Odieresismacron Odotbelow Ograve Ohungarumlaut Omacron Omacronacute Omacrongrave Oopen Oslash Otilde OE P Pdotaccent Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Germandbls T Tbar Tcaron Tcedilla Tcommaaccent Tdotaccent U Uacute Ubreve Ucircumflex Udieresis Udotbelow Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Yhook Ymacron Ytilde Z Zacute Zcaron Zdotaccent Saltillo Lcommaaccent.loclMAH Ncommaaccent.loclMAH Delta Omega";
 name = Uppercase;
 }
 );
@@ -111,11 +111,12 @@ feature case;
 tag = aalt;
 },
 {
-automatic = 1;
 code = "lookup ccmp_DFLT_1 {
 	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
 	lookupflag UseMarkFilteringSet @CombiningTopAccents;
 	sub i' @CombiningTopAccents by idotless;
+    sub iogonek' @CombiningTopAccents by idotless_ogonek;
+	sub idotbelowcomb @CombiningTopAccents by idotless_dotbelowcomb;
 	sub j' @CombiningTopAccents by jdotless;
 } ccmp_DFLT_1;
 
@@ -167,6 +168,7 @@ language ROM;
 lookup locl_latn_1 {
 	sub Scedilla by Scommaaccent;
 	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
 } locl_latn_1;
 language MOL;
 lookup locl_latn_1;
@@ -256,11 +258,11 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 2053;
+value = 2000;
 },
 {
 name = typoDescender;
-value = -550;
+value = -560;
 },
 {
 name = typoLineGap;
@@ -276,11 +278,11 @@ value = 800;
 },
 {
 name = hheaAscender;
-value = 2053;
+value = 2000;
 },
 {
 name = hheaDescender;
-value = -550;
+value = -560;
 },
 {
 name = strikeoutPosition;

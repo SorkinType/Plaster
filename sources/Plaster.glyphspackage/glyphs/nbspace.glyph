@@ -6,6 +6,7 @@ layerId = m01;
 width = 225;
 }
 );
+metricWidth = "=space";
 note = nonbreakingspace;
 unicode = 160;
 userData = {

@@ -1,0 +1,23 @@
+{
+glyphname = abrevegrave;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (240,0);
+ref = brevecomb;
+},
+{
+pos = (222,501);
+ref = gravecomb;
+}
+);
+width = 1469;
+}
+);
+unicode = 7857;
+}

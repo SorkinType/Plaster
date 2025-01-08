@@ -1,0 +1,23 @@
+{
+glyphname = acircumflextilde;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (116,0);
+ref = circumflexcomb;
+},
+{
+pos = (157,634);
+ref = tildecomb;
+}
+);
+width = 1469;
+}
+);
+unicode = 7851;
+}

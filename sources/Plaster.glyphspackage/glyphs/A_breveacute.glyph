@@ -1,0 +1,23 @@
+{
+glyphname = Abreveacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (318,0);
+ref = brevecomb.case;
+},
+{
+pos = (490,529);
+ref = acutecomb.case;
+}
+);
+width = 1536;
+}
+);
+unicode = 7854;
+}

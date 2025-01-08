@@ -50,6 +50,30 @@ t-
 niďaid 
 TEHOXDIV ",
 G,
-"/dotaccentcomb.case Ġ"
+"/dotaccentcomb.case Ġ",
+"/idotless_ogonek",
+"®",
+"©",
+"™",
+b,
+"dḋ",
+"/brevecomb_gravecomb/brevecomb_hookabovecomb",
+"̆̉",
+"̛̉",
+"̉ủ",
+"/brevecomb_hookabovecomb",
+"/brevecomb_gravecomb",
+"/brevecomb_acutecomb",
+"/brevecomb_tildecomb",
+"/circumflexcomb_acutecomb",
+"/circumflexcomb_gravecomb",
+"/circumflexcomb_hookabovecomb",
+"/circumflexcomb_tildecomb",
+"/brevecomb_tildecomb/circumflexcomb_tildecomb",
+"/commaaccentcomb.loclMAH ʻ",
+">~",
+"≈",
+"̃",
+"/tildecomb.case"
 );
 }

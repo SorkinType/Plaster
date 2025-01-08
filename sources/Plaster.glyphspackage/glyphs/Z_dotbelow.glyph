@@ -1,0 +1,19 @@
+{
+glyphname = Zdotbelow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (308,0);
+ref = dotbelowcomb;
+}
+);
+width = 1529;
+}
+);
+unicode = 7826;
+}
