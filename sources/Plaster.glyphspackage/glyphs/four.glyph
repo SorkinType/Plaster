@@ -1,0 +1,41 @@
+{
+glyphname = four;
+kernLeft = KO_four;
+kernRight = KO_four;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(714,341,l),
+(714,1361,l),
+(649,1361,ls),
+(553,1361,o),
+(471,1349,o),
+(403,1324,cs),
+(207,1253,o),
+(109,1096,o),
+(109,853,cs),
+(109,341,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1404,0,l),
+(1404,1020,l),
+(871,1020,l),
+(871,0,l)
+);
+}
+);
+width = 1529;
+}
+);
+metricLeft = "=|B";
+metricRight = H;
+note = four;
+unicode = 52;
+}

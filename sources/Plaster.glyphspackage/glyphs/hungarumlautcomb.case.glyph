@@ -1,0 +1,54 @@
+{
+glyphname = hungarumlautcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (563,1361);
+},
+{
+name = top;
+pos = (768,2227);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(137,1574,ls),
+(167,1543,o),
+(201,1523,o),
+(237,1512,cs),
+(353,1477,o),
+(483,1532,o),
+(626,1675,cs),
+(759,1808,l),
+(518,2048,l),
+(90,1620,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(741,1574,ls),
+(771,1543,o),
+(805,1523,o),
+(841,1512,cs),
+(957,1477,o),
+(1087,1532,o),
+(1230,1675,cs),
+(1363,1808,l),
+(1122,2048,l),
+(694,1620,l)
+);
+}
+);
+width = 1453;
+}
+);
+metricLeft = hyphen;
+metricRight = hyphen;
+note = hungarumlaut.cap;
+}

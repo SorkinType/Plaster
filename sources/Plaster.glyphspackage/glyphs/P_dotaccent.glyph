@@ -1,0 +1,23 @@
+{
+glyphname = Pdotaccent;
+kernLeft = KO_H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = P;
+},
+{
+alignment = -1;
+pos = (199,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 1534;
+}
+);
+note = uni1E56;
+unicode = 7766;
+}

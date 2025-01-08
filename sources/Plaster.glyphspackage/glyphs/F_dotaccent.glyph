@@ -1,0 +1,23 @@
+{
+glyphname = Fdotaccent;
+kernLeft = KO_H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = F;
+},
+{
+alignment = -1;
+pos = (246,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 1534;
+}
+);
+note = uni1E1E;
+unicode = 7710;
+}

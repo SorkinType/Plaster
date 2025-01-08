@@ -1,0 +1,24 @@
+{
+glyphname = Delta;
+kernLeft = KO_Delta;
+kernRight = KO_Delta;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(857,1530,l),
+(856,1529,l),
+(99,0,l),
+(1599,0,l)
+);
+}
+);
+width = 1698;
+}
+);
+note = Delta;
+unicode = 916;
+}

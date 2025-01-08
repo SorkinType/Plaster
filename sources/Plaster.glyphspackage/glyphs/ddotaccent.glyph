@@ -1,0 +1,22 @@
+{
+glyphname = ddotaccent;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = d;
+},
+{
+alignment = -1;
+pos = (-89,-169);
+ref = dotaccent;
+}
+);
+width = 1534;
+}
+);
+note = uni1E0B;
+unicode = 7691;
+}

@@ -1,0 +1,22 @@
+{
+glyphname = atilde;
+kernLeft = KO_odieresis;
+kernRight = KO_aacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (-11,0);
+ref = tildecomb;
+}
+);
+width = 1469;
+}
+);
+note = atilde;
+unicode = 227;
+}

@@ -1,0 +1,46 @@
+{
+glyphname = exclam;
+kernLeft = KO_exclam;
+kernRight = KO_exclam;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(873,679,l),
+(912,1700,l),
+(282,1700,l),
+(322,679,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(826,0,o),
+(915,65,o),
+(915,207,cs),
+(915,349,o),
+(815,406,o),
+(599,406,cs),
+(383,406,o),
+(279,348,o),
+(279,207,cs),
+(279,69,o),
+(389,0,o),
+(610,0,cs)
+);
+}
+);
+width = 1194;
+}
+);
+note = exclam;
+unicode = 33;
+userData = {
+KernOnSpecialSpacing = {
+L = "spaced-off";
+};
+};
+}

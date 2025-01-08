@@ -1,0 +1,38 @@
+{
+glyphname = underscore;
+kernLeft = KO_underscore;
+kernRight = KO_underscore;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-19,-337,l),
+(1208,-337,l),
+(1208,-173,l),
+(-19,-173,l)
+);
+}
+);
+userData = {
+assembly = "SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 4 values pushed */
+0 2 1 4
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */";
+};
+width = 1189;
+}
+);
+note = underscore;
+unicode = 95;
+userData = {
+KernOnSpecialSpacing = {
+L = underscore;
+R = underscore;
+};
+};
+}

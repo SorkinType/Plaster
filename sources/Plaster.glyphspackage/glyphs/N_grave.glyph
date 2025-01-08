@@ -1,0 +1,22 @@
+{
+color = 5;
+glyphname = Ngrave;
+kernLeft = KO_H;
+kernRight = KO_N;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (317,0);
+ref = gravecomb.case;
+}
+);
+width = 1492;
+}
+);
+unicode = 504;
+}

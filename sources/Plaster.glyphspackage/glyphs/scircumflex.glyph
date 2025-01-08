@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = scircumflex;
+kernLeft = KO_scaron;
+kernRight = KO_scaron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (96,0);
+ref = circumflexcomb;
+}
+);
+width = 1373;
+}
+);
+note = scircumflex;
+unicode = 349;
+}

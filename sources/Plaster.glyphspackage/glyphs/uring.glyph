@@ -1,0 +1,22 @@
+{
+glyphname = uring;
+kernLeft = KO_t;
+kernRight = KO_aacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (281,0);
+ref = ringcomb;
+}
+);
+width = 1502;
+}
+);
+note = uring;
+unicode = 367;
+}

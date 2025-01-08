@@ -1,0 +1,22 @@
+{
+glyphname = gbreve;
+kernLeft = KO_odieresis;
+kernRight = KO_g;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = g;
+},
+{
+pos = (252,0);
+ref = brevecomb;
+}
+);
+width = 1451;
+}
+);
+note = gbreve;
+unicode = 287;
+}

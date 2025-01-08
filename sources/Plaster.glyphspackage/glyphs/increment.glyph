@@ -1,0 +1,15 @@
+{
+glyphname = increment;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Delta;
+}
+);
+width = 1698;
+}
+);
+unicode = 8710;
+}

@@ -1,0 +1,22 @@
+{
+glyphname = sdotaccent;
+kernLeft = KO_scaron;
+kernRight = KO_scaron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (278,0);
+ref = dotaccentcomb;
+}
+);
+width = 1373;
+}
+);
+note = uni1E61;
+unicode = 7777;
+}

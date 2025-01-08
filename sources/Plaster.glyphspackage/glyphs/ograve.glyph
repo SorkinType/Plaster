@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = ograve;
+kernLeft = KO_d;
+kernRight = KO_b;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (233,0);
+ref = gravecomb;
+}
+);
+width = 1436;
+}
+);
+note = ograve;
+unicode = 242;
+}

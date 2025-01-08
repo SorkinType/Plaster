@@ -1,0 +1,22 @@
+{
+glyphname = Aacute;
+kernLeft = KO_A;
+kernRight = KO_A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (490,0);
+ref = acutecomb.case;
+}
+);
+width = 1536;
+}
+);
+note = Aacute;
+unicode = 193;
+}

@@ -1,0 +1,38 @@
+{
+glyphname = jdotless;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (598,-560);
+},
+{
+name = top;
+pos = (598,1020);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(413,-508,ls),
+(578,-508,o),
+(698,-462,o),
+(774,-369,cs),
+(841,-288,o),
+(874,-166,o),
+(874,-5,cs),
+(874,1020,l),
+(336,1020,l),
+(336,-508,l)
+);
+}
+);
+width = 1196;
+}
+);
+note = dotlessj;
+unicode = 567;
+}

@@ -1,0 +1,39 @@
+{
+glyphname = acutecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (297,1361);
+},
+{
+name = top;
+pos = (448,2000);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(137,1612,ls),
+(167,1581,o),
+(201,1561,o),
+(237,1550,cs),
+(353,1515,o),
+(483,1570,o),
+(626,1713,cs),
+(759,1846,l),
+(518,2086,l),
+(90,1658,l)
+);
+}
+);
+width = 849;
+}
+);
+metricLeft = hyphen;
+metricRight = hyphen;
+note = acute.cap;
+}

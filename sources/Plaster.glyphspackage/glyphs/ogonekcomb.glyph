@@ -1,0 +1,54 @@
+{
+glyphname = ogonekcomb;
+layers = (
+{
+anchors = (
+{
+name = _ogonek;
+pos = (650,52);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(90,-353,o),
+(125,-427,o),
+(196,-483,cs),
+(261,-534,o),
+(340,-560,o),
+(434,-560,cs),
+(650,-560,l),
+(650,-230,l),
+(524,-230,ls),
+(476,-230,o),
+(446,-219,o),
+(417,-174,cs),
+(402,-151,o),
+(395,-103,o),
+(395,-28,cs),
+(395,52,l),
+(305,52,o),
+(232,23,o),
+(175,-34,cs),
+(122,-89,o),
+(90,-167,o),
+(90,-262,cs)
+);
+}
+);
+width = 740;
+}
+);
+metricLeft = hyphen;
+metricRight = hyphen;
+note = ogonek;
+unicode = 808;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

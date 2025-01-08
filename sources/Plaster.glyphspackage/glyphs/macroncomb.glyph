@@ -1,0 +1,48 @@
+{
+glyphname = macroncomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (511,1020);
+},
+{
+name = top;
+pos = (511,1417);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(932,1160,l),
+(932,1427,l),
+(90,1427,l),
+(90,1160,l)
+);
+}
+);
+userData = {
+assembly = "SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 4 values pushed */
+1 1 2 4
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */";
+};
+width = 1022;
+}
+);
+metricLeft = hyphen;
+metricRight = hyphen;
+note = macron;
+unicode = 772;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

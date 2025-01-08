@@ -1,0 +1,23 @@
+{
+glyphname = ocircumflexdotbelow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (237,0);
+ref = dotbelowcomb;
+},
+{
+pos = (134,0);
+ref = circumflexcomb;
+}
+);
+width = 1436;
+}
+);
+unicode = 7897;
+}

@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = ecircumflex;
+kernLeft = KO_odieresis;
+kernRight = KO_eacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (117,0);
+ref = circumflexcomb;
+}
+);
+width = 1416;
+}
+);
+note = ecircumflex;
+unicode = 234;
+}

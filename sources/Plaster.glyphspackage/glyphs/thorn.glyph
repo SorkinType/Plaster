@@ -1,0 +1,46 @@
+{
+color = 4;
+glyphname = thorn;
+kernRight = KO_thorn;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(663,-540,l),
+(663,1530,l),
+(125,1530,l),
+(125,-540,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(863,0,ls),
+(1032,0,o),
+(1161,46,o),
+(1252,138,cs),
+(1339,227,o),
+(1383,348,o),
+(1383,502,cs),
+(1383,653,o),
+(1343,775,o),
+(1264,868,cs),
+(1177,969,o),
+(1052,1020,o),
+(888,1020,cs),
+(811,1020,l),
+(811,0,l)
+);
+}
+);
+width = 1453;
+}
+);
+metricLeft = h;
+metricRight = p;
+note = thorn;
+unicode = 254;
+}

@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = Eacute;
+kernLeft = KO_H;
+kernRight = KO_E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (461,0);
+ref = acutecomb.case;
+}
+);
+width = 1450;
+}
+);
+note = Eacute;
+unicode = 201;
+}

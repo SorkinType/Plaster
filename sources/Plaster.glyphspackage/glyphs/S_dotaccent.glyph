@@ -1,0 +1,23 @@
+{
+glyphname = Sdotaccent;
+kernLeft = KO_S;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = S;
+},
+{
+alignment = -1;
+pos = (257,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 1534;
+}
+);
+note = uni1E60;
+unicode = 7776;
+}

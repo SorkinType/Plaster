@@ -1,0 +1,16 @@
+{
+color = 4;
+glyphname = eturned;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = schwa;
+}
+);
+width = 1534;
+}
+);
+unicode = 477;
+}

@@ -1,0 +1,11 @@
+{
+glyphname = softhyphen;
+layers = (
+{
+layerId = m01;
+width = 1229;
+}
+);
+note = uni00AD;
+unicode = 173;
+}

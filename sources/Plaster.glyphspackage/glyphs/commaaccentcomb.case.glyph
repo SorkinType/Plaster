@@ -1,0 +1,39 @@
+{
+glyphname = commaaccentcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (318,0);
+},
+{
+name = bottom;
+pos = (318,-560);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(90,-560,l),
+(183,-560,ls),
+(255,-560,o),
+(314,-552,o),
+(361,-536,cs),
+(484,-493,o),
+(546,-416,o),
+(546,-306,cs),
+(546,-149,l),
+(90,-149,l)
+);
+}
+);
+width = 636;
+}
+);
+metricLeft = hyphen;
+metricRight = hyphen;
+note = commaaccent.cap;
+}

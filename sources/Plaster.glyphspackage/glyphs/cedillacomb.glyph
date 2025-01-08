@@ -1,0 +1,46 @@
+{
+glyphname = cedillacomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (355,0);
+},
+{
+name = bottom;
+pos = (355,-556);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(620,-259,l),
+(426,-9,l),
+(222,-158,ls),
+(142,-216,o),
+(98,-275,o),
+(90,-334,cs),
+(87,-362,o),
+(99,-393,o),
+(126,-428,cs),
+(224,-556,l)
+);
+}
+);
+width = 710;
+}
+);
+metricLeft = hyphen;
+metricRight = hyphen;
+note = cedilla;
+unicode = 807;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

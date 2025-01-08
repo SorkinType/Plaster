@@ -1,0 +1,19 @@
+{
+glyphname = Ldotbelow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (270,0);
+ref = dotbelowcomb;
+}
+);
+width = 1384;
+}
+);
+unicode = 7734;
+}

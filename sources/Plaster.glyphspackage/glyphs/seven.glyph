@@ -1,0 +1,42 @@
+{
+glyphname = seven;
+kernLeft = KO_seven;
+kernRight = KO_seven;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1121,2,l),
+(1441,1361,l),
+(854,1361,l),
+(533,2,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(208,753,ls),
+(328,753,o),
+(422,771,o),
+(491,808,cs),
+(555,841,o),
+(589,885,o),
+(616,958,cs),
+(629,994,o),
+(636,1049,o),
+(636,1123,cs),
+(636,1360,l),
+(40,1360,l),
+(40,753,l)
+);
+}
+);
+width = 1431;
+}
+);
+note = seven;
+unicode = 55;
+}

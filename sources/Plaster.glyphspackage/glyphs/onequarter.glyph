@@ -1,0 +1,55 @@
+{
+glyphname = onequarter;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1290,850,l),
+(1290,1962,l),
+(731,1819,l),
+(731,850,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(943,-255,l),
+(943,510,l),
+(829,510,ls),
+(718,510,o),
+(630,493,o),
+(566,460,cs),
+(506,429,o),
+(472,388,o),
+(443,310,cs),
+(428,271,o),
+(421,210,o),
+(421,127,cs),
+(421,-255,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1098,-510,l),
+(1617,-510,l),
+(1617,252,l),
+(1098,252,l)
+);
+}
+);
+width = 2038;
+}
+);
+note = onequarter;
+unicode = 188;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

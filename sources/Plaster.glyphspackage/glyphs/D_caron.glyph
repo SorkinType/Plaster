@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = Dcaron;
+kernLeft = KO_H;
+kernRight = KO_D;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = D;
+},
+{
+pos = (167,0);
+ref = caroncomb.case;
+}
+);
+width = 1534;
+}
+);
+note = Dcaron;
+unicode = 270;
+}

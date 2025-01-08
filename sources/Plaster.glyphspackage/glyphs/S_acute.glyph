@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = Sacute;
+kernLeft = KO_S;
+kernRight = KO_S;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (466,0);
+ref = acutecomb.case;
+}
+);
+width = 1526;
+}
+);
+note = Sacute;
+unicode = 346;
+}

@@ -1,0 +1,21 @@
+{
+glyphname = Sdotbelow;
+kernLeft = KO_S;
+kernRight = KO_S;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (275,0);
+ref = dotbelowcomb;
+}
+);
+width = 1526;
+}
+);
+unicode = 7778;
+}

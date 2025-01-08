@@ -1,0 +1,58 @@
+{
+color = 4;
+glyphname = mturned;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (1098,0);
+},
+{
+name = top;
+pos = (1098,1020);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(120,1020,l),
+(120,437,ls),
+(120,137,o),
+(259,0,o),
+(583,0,cs),
+(673,0,l),
+(673,1020,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(821,1020,l),
+(821,437,ls),
+(821,137,o),
+(960,0,o),
+(1284,0,cs),
+(1374,0,l),
+(1374,1020,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1522,1020,l),
+(1522,0,l),
+(2078,0,l),
+(2078,1020,l)
+);
+}
+);
+width = 2203;
+}
+);
+metricLeft = u;
+metricRight = u;
+unicode = 623;
+}

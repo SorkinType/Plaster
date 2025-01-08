@@ -1,0 +1,22 @@
+{
+color = 5;
+glyphname = Icircumflex;
+kernRight = KO_Iacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-211,0);
+ref = circumflexcomb.case;
+}
+);
+width = 814;
+}
+);
+note = Icircumflex;
+unicode = 206;
+}

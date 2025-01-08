@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = Nacute;
+kernLeft = KO_H;
+kernRight = KO_N;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (468,0);
+ref = acutecomb.case;
+}
+);
+width = 1492;
+}
+);
+note = Nacute;
+unicode = 323;
+}
