@@ -35,10 +35,9 @@ width = 636;
 );
 metricLeft = hyphen;
 metricRight = hyphen;
-note = commaaccent.cap;
+note = commaaccent;
 unicode = 806;
-}
-ta = {
+userData = {
 KernOnSpecialSpacing = {
 L = NoKerning;
 R = NoKerning;

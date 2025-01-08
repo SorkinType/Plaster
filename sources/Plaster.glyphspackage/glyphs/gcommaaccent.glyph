@@ -9,10 +9,6 @@ shapes = (
 {
 alignment = -1;
 ref = g;
-},
-{
-pos = (288,0);
-ref = commaturnedabovecomb;
 }
 );
 width = 1534;

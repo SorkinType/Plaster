@@ -1,18 +1,20 @@
 {
 .appVersion = "3337";
 .formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+}
+);
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Edotbelow Egrave Emacron Eogonek Etilde Schwa F G Gbreve Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Idotbelow Igrave Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M Macute N Nacute Ncaron Ncommaaccent Ndotaccent Ngrave Ntilde Eng O Oacute Obreve Ocircumflex Odieresis Odotbelow Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls T Tbar Tcaron Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Udotbelow Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent Saltillo uni1E02 uni1E0A uni1E1E uni1E40 uni1E56 uni1E60 uni1E6A Lcommaaccent.loclMAH Ncommaaccent.loclMAH Delta Omega";
+code = "A Aacute Abreve Acaron Acircumflex Acircumflexdotbelow Adieresis Adieresismacron Adotaccent Agrave Amacron Aogonek Aring Atilde AE AEacute B Bdotaccent Bdotbelow Bhook C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Ddotaccent Ddotbelow Dhook Dtail Eth E Eacute Ebreve Ecaron Ecedilla Ecircumflex Ecircumflexdotbelow Edieresis Edotaccent Edotbelow Egrave Emacron Eogonek Eopen Etilde Eturned Schwa F Fdotaccent G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hcircumflex Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent Khook L Lacute Lcaron Lcommaaccent Ldot Ldotbelow Lslash M Macute Mdotaccent N Nacute Ncaron Ncommaaccent Ndotaccent Ndotbelow Ngrave Nhookleft Ntilde Eng O Oacute Obreve Ocaron Ocircumflex Ocircumflexdotbelow Odieresis Odieresismacron Odotbelow Ograve Ohungarumlaut Omacron Omacronacute Omacrongrave Oopen Oslash Otilde OE P Pdotaccent Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Germandbls T Tbar Tcaron Tcedilla Tdotaccent U Uacute Ubreve Ucircumflex Udieresis Udotbelow Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Yhook Ymacron Ytilde Z Zacute Zcaron Zdotaccent Saltillo Lcommaaccent.loclMAH Ncommaaccent.loclMAH Delta Omega";
 name = Uppercase;
 }
 );
 customParameters = (
-{
-name = vendorID;
-value = "STC ";
-},
 {
 name = panose;
 value = (
@@ -34,6 +36,22 @@ value = (
 );
 },
 {
+name = "Use Extension Kerning";
+value = 1;
+},
+{
+name = "Use Line Breaks";
+value = 1;
+},
+{
+name = "Enforce Compatibility Check";
+value = 1;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
 name = blueScale;
 value = 0.04;
 },
@@ -46,12 +64,17 @@ name = blueFuzz;
 value = 0;
 },
 {
-name = "Use Extension Kerning";
-value = 1;
+name = "meta Table";
+value = (
+{
+data = Latn;
+tag = dlng;
 },
 {
-name = "Use Line Breaks";
-value = 1;
+data = Latn;
+tag = slng;
+}
+);
 }
 );
 date = "2025-01-07 17:02:12 +0000";
@@ -90,7 +113,7 @@ tag = aalt;
 {
 automatic = 1;
 code = "lookup ccmp_DFLT_1 {
-	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
 	lookupflag UseMarkFilteringSet @CombiningTopAccents;
 	sub i' @CombiningTopAccents by idotless;
 	sub j' @CombiningTopAccents by jdotless;
@@ -218,6 +241,7 @@ tag = case;
 {
 automatic = 1;
 code = "lookupflag IgnoreMarks;
+sub f f by f_f;
 sub f i by fi;
 sub f l by fl;
 ";
@@ -226,6 +250,9 @@ tag = liga;
 );
 fontMaster = (
 {
+axesValues = (
+400
+);
 customParameters = (
 {
 name = typoAscender;
@@ -322,21 +349,13 @@ KernOnModels = (
 );
 instances = (
 {
+axesValues = (
+400
+);
 instanceInterpolations = {
 m01 = 1;
 };
 name = Regular;
-properties = (
-{
-key = styleNames;
-values = (
-{
-language = ENG;
-value = Regular;
-}
-);
-}
-);
 }
 );
 kerningLTR = {
@@ -11158,9 +11177,8 @@ properties = (
 key = copyrights;
 values = (
 {
-language = ENG;
-value = "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)
-with Reserved Font Name \"Plaster\".
+language = dflt;
+value = "Copyright 2025 The Plaster Project Authors (https://github.com/SorkinTypeCo/Plaster)with Reserved Font Name \"Plaster\".
 
 This Font Software is licensed under the SIL Open Font License,
 Version 1.1. This license is available with a FAQ at:
@@ -11169,19 +11187,10 @@ http://scripts.sil.org/OFL";
 );
 },
 {
-key = descriptions;
-values = (
-{
-language = ENG;
-value = "Plaster is a very low contrast extremely geometric design done in the tradition of the work of Joseph Albers. Many of the solutions to the glyph design vary from Alber's choices. Plaster is suitable for use in medium to large sizes including headlines.";
-}
-);
-},
-{
 key = designers;
 values = (
 {
-language = ENG;
+language = dflt;
 value = "Eben Sorkin";
 }
 );
@@ -11191,20 +11200,11 @@ key = designerURL;
 value = www.sorkintype.com;
 },
 {
-key = familyNames;
-values = (
-{
-language = ENG;
-value = Plaster;
-}
-);
-},
-{
 key = licenses;
 values = (
 {
-language = ENG;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1.";
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
 }
 );
 },
@@ -11229,10 +11229,14 @@ value = www.sorkintype.com;
 key = trademarks;
 values = (
 {
-language = ENG;
+language = dflt;
 value = "Plaster is a trademark of Sorkin Type Co.";
 }
 );
+},
+{
+key = vendorID;
+value = STC;
 }
 );
 unitsPerEm = 2048;

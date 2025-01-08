@@ -8,10 +8,6 @@ layerId = m01;
 shapes = (
 {
 ref = l;
-},
-{
-pos = (21,0);
-ref = commaaccentcomb;
 }
 );
 width = 678;
