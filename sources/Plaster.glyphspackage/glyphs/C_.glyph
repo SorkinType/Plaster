@@ -1,7 +1,7 @@
 {
 color = 4;
 glyphname = C;
-kernLeft = KO_C;
+kernLeft = KO_O;
 kernRight = KO_C;
 layers = (
 {
@@ -69,4 +69,7 @@ metricLeft = O;
 metricRight = H;
 note = C;
 unicode = 67;
+userData = {
+KernOnName = C;
+};
 }

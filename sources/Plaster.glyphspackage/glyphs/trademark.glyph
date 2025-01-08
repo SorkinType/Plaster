@@ -1,6 +1,7 @@
 {
 glyphname = trademark;
 kernLeft = KO_trademark;
+kernRight = KO_trademark;
 layers = (
 {
 layerId = m01;

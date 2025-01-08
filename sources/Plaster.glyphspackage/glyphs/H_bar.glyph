@@ -1,5 +1,6 @@
 {
 glyphname = Hbar;
+kernLeft = KO_Hbar;
 kernRight = KO_Hbar;
 layers = (
 {

@@ -1,6 +1,8 @@
 {
 color = 0;
 glyphname = idotaccent;
+kernLeft = KO_idotaccent;
+kernRight = KO_idotaccent;
 layers = (
 {
 layerId = m01;
@@ -16,4 +18,7 @@ ref = dotaccentcomb;
 width = 856;
 }
 );
+userData = {
+KernOnName = idotaccent;
+};
 }

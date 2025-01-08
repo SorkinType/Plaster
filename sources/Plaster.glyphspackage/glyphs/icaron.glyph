@@ -1,5 +1,7 @@
 {
 glyphname = icaron;
+kernLeft = KO_idotaccent;
+kernRight = KO_icaron;
 layers = (
 {
 layerId = m01;

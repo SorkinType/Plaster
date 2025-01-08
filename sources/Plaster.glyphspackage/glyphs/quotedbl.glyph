@@ -43,6 +43,7 @@ width = 1874;
 note = quotedbl;
 unicode = 34;
 userData = {
+KernOnName = quotedbl;
 KernOnSpecialSpacing = {
 L = quotes;
 R = quotes;

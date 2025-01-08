@@ -1,8 +1,8 @@
 {
 color = 4;
 glyphname = OE;
-kernLeft = KO_G;
-kernRight = KO_R;
+kernLeft = KO_O;
+kernRight = KO_AE;
 layers = (
 {
 anchors = (

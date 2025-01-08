@@ -1,5 +1,7 @@
 {
 glyphname = daggerdbl;
+kernLeft = KO_daggerdbl;
+kernRight = KO_daggerdbl;
 layers = (
 {
 layerId = m01;

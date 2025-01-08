@@ -1,5 +1,6 @@
 {
 glyphname = quotedblbase;
+kernLeft = KO_quotedblbase;
 kernRight = KO_quotedblbase;
 layers = (
 {

@@ -2,6 +2,7 @@
 color = 5;
 glyphname = kcommaaccent;
 kernLeft = KO_h;
+kernRight = KO_k;
 layers = (
 {
 layerId = m01;

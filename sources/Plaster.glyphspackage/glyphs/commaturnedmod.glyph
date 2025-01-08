@@ -1,5 +1,7 @@
 {
 glyphname = commaturnedmod;
+kernLeft = KO_commaturnedmod;
+kernRight = KO_commaturnedmod;
 layers = (
 {
 anchors = (

@@ -1,5 +1,6 @@
 {
 glyphname = yen;
+kernRight = KO_yen;
 layers = (
 {
 layerId = m01;

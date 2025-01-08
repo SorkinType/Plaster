@@ -1,7 +1,6 @@
 {
 glyphname = bdotaccent;
 kernLeft = KO_h;
-kernRight = KO_schwa;
 layers = (
 {
 layerId = m01;

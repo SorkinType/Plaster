@@ -30,6 +30,7 @@ width = 776;
 note = period;
 unicode = 46;
 userData = {
+KernOnName = period;
 KernOnSpecialSpacing = {
 L = period;
 R = period;

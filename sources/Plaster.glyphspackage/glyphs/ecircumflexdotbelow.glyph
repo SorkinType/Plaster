@@ -1,7 +1,14 @@
 {
 glyphname = ecircumflexdotbelow;
+kernLeft = KO_a;
+kernRight = KO_e;
 layers = (
 {
+guides = (
+{
+pos = (154,-541);
+}
+);
 layerId = m01;
 shapes = (
 {

@@ -1,7 +1,7 @@
 {
 glyphname = comma;
-kernLeft = KO_period;
-kernRight = KO_period;
+kernLeft = KO_comma;
+kernRight = KO_comma;
 layers = (
 {
 layerId = m01;

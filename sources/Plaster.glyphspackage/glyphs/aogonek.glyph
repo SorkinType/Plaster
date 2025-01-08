@@ -1,7 +1,7 @@
 {
 glyphname = aogonek;
-kernLeft = KO_ae;
-kernRight = KO_j;
+kernLeft = KO_aogonek;
+kernRight = KO_aogonek;
 layers = (
 {
 layerId = m01;

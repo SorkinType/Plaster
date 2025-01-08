@@ -1,7 +1,8 @@
 {
 color = 5;
 glyphname = Icircumflex;
-kernRight = KO_Iacute;
+kernLeft = KO_Icircumflex;
+kernRight = KO_Icircumflex;
 layers = (
 {
 layerId = m01;

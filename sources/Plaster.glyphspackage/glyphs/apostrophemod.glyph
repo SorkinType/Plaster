@@ -1,5 +1,7 @@
 {
 glyphname = apostrophemod;
+kernLeft = KO_apostrophemod;
+kernRight = KO_apostrophemod;
 layers = (
 {
 layerId = m01;

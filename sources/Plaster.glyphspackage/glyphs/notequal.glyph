@@ -1,5 +1,6 @@
 {
 glyphname = notequal;
+kernRight = KO_notequal;
 layers = (
 {
 layerId = m01;

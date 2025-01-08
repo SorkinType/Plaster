@@ -1,5 +1,7 @@
 {
 glyphname = approxequal;
+kernLeft = KO_approxequal;
+kernRight = KO_approxequal;
 layers = (
 {
 layerId = m01;

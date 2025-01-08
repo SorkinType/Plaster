@@ -1,5 +1,6 @@
 {
 glyphname = periodcentered.loclCAT.case;
+kernRight = KO_period;
 layers = (
 {
 layerId = m01;

@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = Dhook;
+kernRight = KO_D;
 layers = (
 {
 anchors = (

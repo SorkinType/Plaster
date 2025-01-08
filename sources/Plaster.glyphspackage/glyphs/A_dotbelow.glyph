@@ -1,5 +1,5 @@
 {
-glyphname = Acircumflexdotbelow;
+glyphname = Adotbelow;
 kernLeft = KO_A;
 kernRight = KO_A;
 layers = (
@@ -12,14 +12,10 @@ ref = A;
 {
 pos = (298,0);
 ref = dotbelowcomb;
-},
-{
-pos = (169,0);
-ref = circumflexcomb.case;
 }
 );
 width = 1536;
 }
 );
-unicode = 7852;
+unicode = 7840;
 }

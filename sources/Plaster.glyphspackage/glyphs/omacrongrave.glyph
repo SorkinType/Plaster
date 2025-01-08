@@ -1,5 +1,7 @@
 {
 glyphname = omacrongrave;
+kernLeft = KO_a;
+kernRight = KO_o;
 layers = (
 {
 layerId = m01;

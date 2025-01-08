@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = jacute;
+kernRight = KO_jacute;
 layers = (
 {
 layerId = m01;

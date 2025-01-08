@@ -1,6 +1,7 @@
 {
 color = 0;
 glyphname = Saltillo;
+kernRight = KO_Saltillo;
 layers = (
 {
 layerId = m01;

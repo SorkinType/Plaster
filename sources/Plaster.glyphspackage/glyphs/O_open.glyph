@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = Oopen;
+kernLeft = KO_Oopen;
+kernRight = KO_O;
 layers = (
 {
 anchors = (

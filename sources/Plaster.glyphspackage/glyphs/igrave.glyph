@@ -1,7 +1,8 @@
 {
 color = 5;
 glyphname = igrave;
-kernRight = KO_iacute;
+kernLeft = KO_idotaccent;
+kernRight = KO_idotless;
 layers = (
 {
 layerId = m01;

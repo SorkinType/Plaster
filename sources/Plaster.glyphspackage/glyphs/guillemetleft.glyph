@@ -1,7 +1,7 @@
 {
 glyphname = guillemetleft;
-kernLeft = KO_guillemotleft;
-kernRight = KO_guillemotleft;
+kernLeft = KO_guillemetleft;
+kernRight = KO_guillemetleft;
 layers = (
 {
 layerId = m01;

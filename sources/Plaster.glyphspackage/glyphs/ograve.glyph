@@ -1,8 +1,8 @@
 {
 color = 5;
 glyphname = ograve;
-kernLeft = KO_d;
-kernRight = KO_b;
+kernLeft = KO_a;
+kernRight = KO_o;
 layers = (
 {
 layerId = m01;

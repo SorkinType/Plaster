@@ -1,5 +1,6 @@
 {
 glyphname = Oslash;
+kernLeft = KO_Oslash;
 kernRight = KO_Oslash;
 layers = (
 {

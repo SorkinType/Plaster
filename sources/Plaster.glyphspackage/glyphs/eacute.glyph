@@ -1,8 +1,8 @@
 {
 color = 5;
 glyphname = eacute;
-kernLeft = KO_d;
-kernRight = KO_eacute;
+kernLeft = KO_a;
+kernRight = KO_e;
 layers = (
 {
 layerId = m01;

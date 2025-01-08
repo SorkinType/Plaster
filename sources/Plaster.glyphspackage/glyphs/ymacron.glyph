@@ -1,5 +1,7 @@
 {
 glyphname = ymacron;
+kernLeft = KO_u;
+kernRight = KO_a;
 layers = (
 {
 layerId = m01;

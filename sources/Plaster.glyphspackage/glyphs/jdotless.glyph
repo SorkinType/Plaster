@@ -1,5 +1,6 @@
 {
 glyphname = jdotless;
+kernLeft = KO_jcircumflex;
 layers = (
 {
 anchors = (

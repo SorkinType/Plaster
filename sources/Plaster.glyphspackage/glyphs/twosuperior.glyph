@@ -1,7 +1,7 @@
 {
 glyphname = twosuperior;
 kernLeft = KO_twosuperior;
-kernRight = KO_numbersign;
+kernRight = KO_twosuperior;
 layers = (
 {
 layerId = m01;

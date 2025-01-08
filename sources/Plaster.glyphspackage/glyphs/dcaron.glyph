@@ -1,6 +1,6 @@
 {
 glyphname = dcaron;
-kernLeft = KO_ae;
+kernLeft = KO_aogonek;
 kernRight = KO_dcaron;
 layers = (
 {
@@ -56,4 +56,7 @@ width = 2040;
 );
 note = dcaron;
 unicode = 271;
+userData = {
+KernOnName = dcaron;
+};
 }

@@ -1,6 +1,7 @@
 {
 glyphname = braceright;
 kernLeft = KO_braceright;
+kernRight = KO_braceright;
 layers = (
 {
 layerId = m01;

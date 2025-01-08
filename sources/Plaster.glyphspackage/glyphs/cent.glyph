@@ -1,5 +1,7 @@
 {
 glyphname = cent;
+kernLeft = KO_cent;
+kernRight = KO_cent;
 layers = (
 {
 layerId = m01;

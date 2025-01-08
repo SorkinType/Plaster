@@ -1,5 +1,7 @@
 {
 glyphname = acircumflexdotbelow;
+kernLeft = KO_a;
+kernRight = KO_aacute;
 layers = (
 {
 layerId = m01;

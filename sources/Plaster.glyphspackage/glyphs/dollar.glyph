@@ -1,5 +1,6 @@
 {
 glyphname = dollar;
+kernLeft = KO_dollar;
 kernRight = KO_dollar;
 layers = (
 {

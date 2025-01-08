@@ -1,7 +1,7 @@
 {
 glyphname = Ibreve;
-kernLeft = KO_H;
-kernRight = KO_Iacute;
+kernLeft = KO_I;
+kernRight = KO_I;
 layers = (
 {
 layerId = m01;

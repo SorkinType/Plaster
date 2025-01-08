@@ -1,6 +1,7 @@
 {
 glyphname = gmacron;
-kernRight = KO_g;
+kernLeft = KO_a;
+kernRight = KO_a;
 layers = (
 {
 layerId = m01;

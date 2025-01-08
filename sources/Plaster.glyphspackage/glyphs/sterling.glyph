@@ -1,5 +1,7 @@
 {
 glyphname = sterling;
+kernLeft = KO_sterling;
+kernRight = KO_sterling;
 layers = (
 {
 layerId = m01;

@@ -1,6 +1,6 @@
 {
 glyphname = amacron;
-kernLeft = KO_d;
+kernLeft = KO_amacron;
 kernRight = KO_aacute;
 layers = (
 {

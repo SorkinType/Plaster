@@ -64,4 +64,7 @@ metricLeft = u;
 metricRight = "=|";
 note = w;
 unicode = 119;
+userData = {
+KernOnName = w;
+};
 }

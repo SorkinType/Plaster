@@ -1,6 +1,7 @@
 {
 glyphname = Sdotaccent;
 kernLeft = KO_S;
+kernRight = KO_Sdotaccent;
 layers = (
 {
 layerId = m01;

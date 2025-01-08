@@ -1,5 +1,6 @@
 {
 glyphname = plusminus;
+kernLeft = KO_plusminus;
 kernRight = KO_plusminus;
 layers = (
 {

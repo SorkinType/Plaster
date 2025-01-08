@@ -1,7 +1,7 @@
 {
 glyphname = tcedilla;
 kernLeft = KO_t;
-kernRight = KO_tcommaaccent;
+kernRight = KO_tcedilla;
 layers = (
 {
 layerId = m01;

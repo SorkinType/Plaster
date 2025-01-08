@@ -2,7 +2,7 @@
 color = 5;
 glyphname = zacute;
 kernLeft = KO_z;
-kernRight = KO_zcaron;
+kernRight = KO_z;
 layers = (
 {
 layerId = m01;

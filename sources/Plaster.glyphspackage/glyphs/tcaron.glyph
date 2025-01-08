@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = tcaron;
+kernLeft = KO_t;
 kernRight = KO_tcaron;
 layers = (
 {

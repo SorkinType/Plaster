@@ -1,7 +1,7 @@
 {
 glyphname = backslash;
 kernLeft = KO_backslash;
-kernRight = KO_exclam;
+kernRight = KO_backslash;
 layers = (
 {
 layerId = m01;

@@ -1,8 +1,8 @@
 {
 color = 0;
 glyphname = etilde;
-kernLeft = KO_odieresis;
-kernRight = KO_eacute;
+kernLeft = KO_atilde;
+kernRight = KO_e;
 layers = (
 {
 layerId = m01;

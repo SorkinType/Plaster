@@ -1,6 +1,7 @@
 {
 glyphname = tdotaccent;
 kernLeft = KO_t;
+kernRight = KO_tcedilla;
 layers = (
 {
 layerId = m01;

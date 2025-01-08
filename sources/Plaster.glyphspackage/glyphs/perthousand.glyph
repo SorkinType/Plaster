@@ -1,6 +1,7 @@
 {
 glyphname = perthousand;
 kernLeft = KO_percent;
+kernRight = KO_perthousand;
 layers = (
 {
 layerId = m01;

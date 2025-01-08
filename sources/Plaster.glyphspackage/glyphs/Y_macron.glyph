@@ -1,5 +1,7 @@
 {
 glyphname = Ymacron;
+kernLeft = KO_U;
+kernRight = KO_H;
 layers = (
 {
 layerId = m01;

@@ -1,6 +1,6 @@
 {
 glyphname = idotless;
-kernLeft = KO_idotless;
+kernLeft = KO_iacute;
 kernRight = KO_idotless;
 layers = (
 {

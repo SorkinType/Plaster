@@ -1,7 +1,8 @@
 {
 color = 4;
 glyphname = thorn;
-kernRight = KO_thorn;
+kernLeft = KO_h;
+kernRight = KO_o;
 layers = (
 {
 layerId = m01;

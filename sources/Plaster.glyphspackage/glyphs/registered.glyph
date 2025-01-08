@@ -1,5 +1,7 @@
 {
 glyphname = registered;
+kernLeft = KO_registered;
+kernRight = KO_copyright;
 layers = (
 {
 layerId = m01;

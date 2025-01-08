@@ -1,5 +1,7 @@
 {
 glyphname = adieresismacron;
+kernLeft = KO_odieresis;
+kernRight = KO_a;
 layers = (
 {
 layerId = m01;

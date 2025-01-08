@@ -1,5 +1,7 @@
 {
 glyphname = Dtail;
+kernLeft = KO_Aogonek;
+kernRight = KO_Dcroat;
 layers = (
 {
 layerId = m01;

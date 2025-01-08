@@ -1,6 +1,6 @@
 {
 glyphname = pdotaccent;
-kernRight = KO_b;
+kernRight = KO_o;
 layers = (
 {
 layerId = m01;

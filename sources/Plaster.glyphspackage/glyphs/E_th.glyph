@@ -1,6 +1,7 @@
 {
 glyphname = Eth;
-kernRight = KO_V;
+kernLeft = KO_Eth;
+kernRight = KO_Dcroat;
 layers = (
 {
 layerId = m01;

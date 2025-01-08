@@ -1,6 +1,6 @@
 {
 glyphname = Ndotaccent;
-kernLeft = KO_H;
+kernLeft = KO_Aogonek;
 kernRight = KO_N;
 layers = (
 {

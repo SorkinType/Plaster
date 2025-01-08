@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = hbar;
+kernLeft = KO_hbar;
+kernRight = KO_n;
 layers = (
 {
 layerId = m01;

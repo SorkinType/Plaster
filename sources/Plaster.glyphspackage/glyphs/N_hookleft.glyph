@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = Nhookleft;
+kernRight = KO_N;
 layers = (
 {
 anchors = (

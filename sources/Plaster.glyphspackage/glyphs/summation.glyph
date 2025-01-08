@@ -1,5 +1,6 @@
 {
 glyphname = summation;
+kernRight = KO_micro;
 layers = (
 {
 layerId = m01;

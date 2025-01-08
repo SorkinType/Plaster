@@ -2,7 +2,7 @@
 color = 5;
 glyphname = Tcaron;
 kernLeft = KO_T;
-kernRight = KO_Tcaron;
+kernRight = KO_T;
 layers = (
 {
 layerId = m01;

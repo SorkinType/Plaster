@@ -20,4 +20,7 @@ width = 856;
 );
 note = iacute;
 unicode = 237;
+userData = {
+KernOnName = iacute;
+};
 }

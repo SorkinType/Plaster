@@ -1,6 +1,7 @@
 {
 glyphname = micro;
-kernRight = KO_mu;
+kernLeft = KO_micro;
+kernRight = KO_micro;
 layers = (
 {
 layerId = m01;

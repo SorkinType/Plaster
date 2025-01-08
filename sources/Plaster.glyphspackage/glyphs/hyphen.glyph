@@ -39,6 +39,7 @@ width = 1370;
 note = hyphen;
 unicode = 45;
 userData = {
+KernOnName = hyphen;
 KernOnSpecialSpacing = {
 L = hyphen;
 R = hyphen;

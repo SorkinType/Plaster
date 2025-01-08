@@ -1,5 +1,6 @@
 {
 glyphname = increment;
+kernRight = KO_increment;
 layers = (
 {
 layerId = m01;

@@ -1,5 +1,7 @@
 {
 glyphname = Idieresis;
+kernLeft = KO_Imacron;
+kernRight = KO_Imacron;
 layers = (
 {
 layerId = m01;

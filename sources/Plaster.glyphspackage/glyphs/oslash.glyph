@@ -1,5 +1,7 @@
 {
 glyphname = oslash;
+kernLeft = KO_oslash;
+kernRight = KO_oslash;
 layers = (
 {
 anchors = (

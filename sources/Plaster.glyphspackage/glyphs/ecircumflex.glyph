@@ -2,7 +2,7 @@
 color = 5;
 glyphname = ecircumflex;
 kernLeft = KO_odieresis;
-kernRight = KO_eacute;
+kernRight = KO_e;
 layers = (
 {
 layerId = m01;

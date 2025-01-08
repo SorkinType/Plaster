@@ -1,5 +1,7 @@
 {
 glyphname = Ecedilla;
+kernLeft = KO_H;
+kernRight = KO_E;
 layers = (
 {
 layerId = m01;

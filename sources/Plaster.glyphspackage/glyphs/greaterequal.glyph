@@ -1,5 +1,7 @@
 {
 glyphname = greaterequal;
+kernLeft = KO_greaterequal;
+kernRight = KO_greaterequal;
 layers = (
 {
 layerId = m01;

@@ -1,5 +1,6 @@
 {
 glyphname = mdotaccent;
+kernLeft = KO_n;
 kernRight = KO_n;
 layers = (
 {

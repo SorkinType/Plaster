@@ -1,5 +1,6 @@
 {
 glyphname = section;
+kernLeft = KO_section;
 layers = (
 {
 layerId = m01;

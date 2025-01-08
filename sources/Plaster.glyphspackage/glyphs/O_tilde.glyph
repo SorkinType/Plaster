@@ -1,7 +1,7 @@
 {
 glyphname = Otilde;
 kernLeft = KO_O;
-kernRight = KO_Oacute;
+kernRight = KO_O;
 layers = (
 {
 layerId = m01;

@@ -1,5 +1,6 @@
 {
 glyphname = florin;
+kernLeft = KO_florin;
 layers = (
 {
 layerId = m01;

@@ -1,7 +1,7 @@
 {
 glyphname = onesuperior;
 kernLeft = KO_onesuperior;
-kernRight = KO_questiondown;
+kernRight = KO_onesuperior;
 layers = (
 {
 layerId = m01;

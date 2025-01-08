@@ -47,6 +47,7 @@ width = 776;
 note = colon;
 unicode = 58;
 userData = {
+KernOnName = colon;
 KernOnSpecialSpacing = {
 L = "spaced-off";
 R = "spaced-off";

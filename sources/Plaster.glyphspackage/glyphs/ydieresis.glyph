@@ -1,6 +1,6 @@
 {
 glyphname = ydieresis;
-kernLeft = KO_t;
+kernLeft = KO_u;
 kernRight = KO_d;
 layers = (
 {

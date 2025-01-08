@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = AEacute;
+kernLeft = KO_A;
 kernRight = KO_AE;
 layers = (
 {

@@ -1,6 +1,7 @@
 {
 glyphname = ohungarumlaut;
-kernRight = KO_b;
+kernLeft = KO_amacron;
+kernRight = KO_ohungarumlaut;
 layers = (
 {
 layerId = m01;

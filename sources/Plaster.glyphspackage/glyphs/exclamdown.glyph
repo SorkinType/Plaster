@@ -1,6 +1,7 @@
 {
 glyphname = exclamdown;
-kernRight = KO_exclam;
+kernLeft = KO_exclamdown;
+kernRight = KO_exclamdown;
 layers = (
 {
 layerId = m01;

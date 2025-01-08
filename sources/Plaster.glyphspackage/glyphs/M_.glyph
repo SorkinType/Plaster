@@ -2,7 +2,7 @@
 color = 4;
 glyphname = M;
 kernLeft = KO_H;
-kernRight = KO_A;
+kernRight = KO_M;
 layers = (
 {
 anchors = (

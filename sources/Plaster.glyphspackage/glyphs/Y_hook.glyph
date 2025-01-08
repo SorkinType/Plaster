@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = Yhook;
+kernLeft = KO_U;
+kernRight = KO_Yhook;
 layers = (
 {
 anchors = (

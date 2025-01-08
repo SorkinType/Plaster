@@ -1,6 +1,7 @@
 {
 glyphname = semicolon;
 kernLeft = KO_semicolon;
+kernRight = KO_semicolon;
 layers = (
 {
 layerId = m01;

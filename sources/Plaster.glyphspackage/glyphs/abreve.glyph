@@ -1,6 +1,6 @@
 {
 glyphname = abreve;
-kernLeft = KO_d;
+kernLeft = KO_a;
 kernRight = KO_aacute;
 layers = (
 {

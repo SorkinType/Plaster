@@ -1,5 +1,7 @@
 {
 glyphname = euro;
+kernLeft = KO_euro;
+kernRight = KO_euro;
 layers = (
 {
 anchors = (

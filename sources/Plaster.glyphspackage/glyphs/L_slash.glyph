@@ -1,5 +1,6 @@
 {
 glyphname = Lslash;
+kernLeft = KO_Lslash;
 kernRight = KO_Lslash;
 layers = (
 {

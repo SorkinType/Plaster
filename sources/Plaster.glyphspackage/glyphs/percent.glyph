@@ -1,6 +1,7 @@
 {
 glyphname = percent;
 kernLeft = KO_percent;
+kernRight = KO_percent;
 layers = (
 {
 layerId = m01;

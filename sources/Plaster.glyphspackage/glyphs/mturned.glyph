@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = mturned;
+kernLeft = KO_u;
+kernRight = KO_a;
 layers = (
 {
 anchors = (

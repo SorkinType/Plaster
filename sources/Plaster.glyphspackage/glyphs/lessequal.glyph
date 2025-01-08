@@ -1,5 +1,6 @@
 {
 glyphname = lessequal;
+kernLeft = KO_lessequal;
 kernRight = KO_lessequal;
 layers = (
 {

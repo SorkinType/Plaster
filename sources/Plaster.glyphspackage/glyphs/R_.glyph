@@ -58,4 +58,7 @@ metricLeft = H;
 metricRight = B;
 note = R;
 unicode = 82;
+userData = {
+KernOnName = R;
+};
 }

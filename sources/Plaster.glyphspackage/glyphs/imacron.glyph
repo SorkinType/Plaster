@@ -1,6 +1,7 @@
 {
 glyphname = imacron;
-kernRight = KO_iacute;
+kernLeft = KO_imacron;
+kernRight = KO_imacron;
 layers = (
 {
 layerId = m01;
