@@ -1,6 +1,6 @@
 {
 color = 5;
-glyphname = idotless_dotbelowcomb;
+glyphname = idotbelow.dotless;
 layers = (
 {
 layerId = m01;

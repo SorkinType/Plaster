@@ -10,7 +10,7 @@ tag = wght;
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Acaron Acircumflex Acircumflexdotbelow Adieresis Adieresismacron Adotaccent Adotbelow Agrave Amacron Aogonek Aring Atilde AE AEacute B Bdotaccent Bdotbelow Bhook C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Ddotaccent Ddotbelow Dhook Dtail Eth E Eacute Ebreve Ecaron Ecedilla Ecircumflex Ecircumflexdotbelow Edieresis Edotaccent Edotbelow Egrave Emacron Eogonek Eopen Etilde Eturned Schwa F Fdotaccent G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hcircumflex Hdotbelow Hturned I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent Khook L Lacute Lcaron Lcommaaccent Ldot Ldotbelow Lslash M Macute Mdotaccent Mturned N Nacute Ncaron Ncommaaccent Ndotaccent Ndotbelow Ngrave Nhookleft Ntilde Eng O Oacute Obreve Ocaron Ocircumflex Ocircumflexdotbelow Odieresis Odieresismacron Odotbelow Ograve Ohungarumlaut Omacron Omacronacute Omacrongrave Oopen Oslash Otilde OE P Pdotaccent Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Germandbls T Tbar Tcaron Tcedilla Tcommaaccent Tdotaccent U Uacute Ubreve Ucircumflex Udieresis Udotbelow Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Yhook Ymacron Ytilde Z Zacute Zcaron Zdotaccent Saltillo Lcommaaccent.loclMAH Ncommaaccent.loclMAH Delta Omega";
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adieresismacron Adotaccent Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE AEacute AEmacron B Bdotaccent Bdotbelow Bhook C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Ddotaccent Ddotbelow Dhook Dtail Eth E Eacute Ebreve Ecaron Ecedilla Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Emacrongrave Eogonek Eopen Etilde Eturned Schwa F Fdotaccent G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hcircumflex Hdotaccent Hdotbelow Hturned I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idieresisacute Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jacute Jcircumflex K Kcaron Kcommaaccent Kdotbelow Khook L Lacute Lcaron Lcommaaccent Ldot Ldotbelow Lslash M Macute Mdotaccent Mdotbelow Mturned N Nacute Ncaron Ncommaaccent Ndotaccent Ndotbelow Ngrave Nhookleft Ntilde Eng O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odieresismacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Omacronacute Omacrongrave Oopen Oslash Otilde OE P Pdotaccent Thorn Q R Racute Rcaron Rcommaaccent Rdotbelow S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Germandbls T Tbar Tcaron Tcedilla Tcommaaccent Tdotaccent Tdotbelow U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V Vdotbelow W Wacute Wcircumflex Wdieresis Wgrave X Xdotaccent Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhook Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Saltillo Lcommaaccent.loclMAH Ncommaaccent.loclMAH Delta Omega";
 name = Uppercase;
 }
 );
@@ -115,8 +115,8 @@ code = "lookup ccmp_DFLT_1 {
 	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
 	lookupflag UseMarkFilteringSet @CombiningTopAccents;
 	sub i' @CombiningTopAccents by idotless;
-    sub iogonek' @CombiningTopAccents by idotless_ogonek;
-	sub idotbelowcomb @CombiningTopAccents by idotless_dotbelowcomb;
+    sub iogonek' @CombiningTopAccents by idotless.ogonek;
+	sub idotbelow' @CombiningTopAccents by idotbelow.dotless;
 	sub j' @CombiningTopAccents by jdotless;
 } ccmp_DFLT_1;
 
@@ -180,6 +180,7 @@ lookup locl_latn_2 {
 	sub Ncommaaccent by Ncommaaccent.loclMAH;
 	sub lcommaaccent by lcommaaccent.loclMAH;
 	sub ncommaaccent by ncommaaccent.loclMAH;
+	sub commaaccentcomb by commaaccentcomb.loclMAH;
 } locl_latn_2;
 
 script latn;

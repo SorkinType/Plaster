@@ -32,13 +32,13 @@ nitoid
 TEHLTDIV 
 -n
 's
-ni/f_f lid 
+nilid 
 -f
 Foider 
 TEHAJDIV 
 r:
-ni/f_f íid 
-ni/f_f íid 
+niíid 
+niíid 
 Twider 
 nirfid 
 T.
@@ -50,8 +50,8 @@ t-
 niďaid 
 TEHOXDIV ",
 G,
-"/dotaccentcomb.case Ġ",
-"/idotless_ogonek",
+"Ġ",
+"",
 "®",
 "©",
 "™",
@@ -74,6 +74,6 @@ b,
 ">~",
 "≈",
 "̃",
-"/tildecomb.case"
+""
 );
 }
