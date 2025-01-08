@@ -7,11 +7,14 @@ layers = (
 layerId = m01;
 shapes = (
 {
+pos = (-94,0);
 ref = quoteright;
 }
 );
-width = 1018;
+width = 817;
 }
 );
+metricLeft = "=hyphen";
+metricRight = "=hyphen";
 unicode = 700;
 }

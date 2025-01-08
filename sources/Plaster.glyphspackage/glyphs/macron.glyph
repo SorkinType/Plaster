@@ -25,6 +25,8 @@ IUP[1]	/* InterpolateUntPts */";
 width = 1022;
 }
 );
+metricLeft = "=hyphen";
+metricRight = "=hyphen";
 note = macron;
 unicode = 175;
 }
