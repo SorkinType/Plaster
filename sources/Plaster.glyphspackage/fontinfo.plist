@@ -259,7 +259,7 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 2055;
+value = 2000;
 },
 {
 name = typoDescender;
