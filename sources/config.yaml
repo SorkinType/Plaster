@@ -8,6 +8,7 @@
 # directory.
 sources:
   - Plaster.glyphspackage
+  - Plaster-Italic.glyphspackage
 
 # You don't have to supply the family name, but builds are slightly
 # faster if you do.
