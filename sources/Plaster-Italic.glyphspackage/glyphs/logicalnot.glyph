@@ -1,0 +1,43 @@
+{
+glyphname = logicalnot;
+kernLeft = KO_logicalnot;
+kernRight = KO_logicalnot;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1346,655,l),
+(1282,138,l),
+(1455,138,l),
+(1539,825,l),
+(369,827,l),
+(348,655,l)
+);
+}
+);
+userData = {
+assembly = "PUSHW[ ]	/* 4 values pushed */
+2 8 3 4
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 1 value pushed */
+2
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+7
+MDRP[11100]	/* MoveDirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 4 values pushed */
+1 2 4 4
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */";
+};
+width = 1707;
+}
+);
+note = logicalnot;
+unicode = 172;
+}

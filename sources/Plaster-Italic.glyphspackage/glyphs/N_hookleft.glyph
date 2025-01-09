@@ -1,0 +1,48 @@
+{
+color = 4;
+glyphname = Nhookleft;
+kernRight = KO_N;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (765,0);
+},
+{
+name = top;
+pos = (765,1361);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1382,0,l),
+(1382,1020,ls),
+(1382,1228,o),
+(1241,1361,o),
+(919,1361,cs),
+(829,1361,l),
+(829,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(110,-341,l),
+(200,-341,ls),
+(522,-341,o),
+(663,-208,o),
+(663,0,cs),
+(663,1361,l),
+(110,1361,l)
+);
+}
+);
+width = 1492;
+}
+);
+unicode = 413;
+}

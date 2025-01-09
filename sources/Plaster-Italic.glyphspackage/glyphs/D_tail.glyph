@@ -1,0 +1,17 @@
+{
+glyphname = Dtail;
+kernLeft = KO_Aogonek;
+kernRight = KO_Dcroat;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 1534;
+}
+);
+unicode = (393,598);
+}

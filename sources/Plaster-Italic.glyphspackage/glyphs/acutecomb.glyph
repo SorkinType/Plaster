@@ -1,0 +1,44 @@
+{
+glyphname = acutecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (457,1020);
+},
+{
+name = top;
+pos = (564,1886);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(288,1233,ls),
+(315,1203,o),
+(346,1182,o),
+(381,1171,cs),
+(492,1136,o),
+(629,1191,o),
+(792,1336,cs),
+(939,1467,l),
+(728,1707,l),
+(247,1279,l)
+);
+}
+);
+width = 849;
+}
+);
+note = acute;
+unicode = 769;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

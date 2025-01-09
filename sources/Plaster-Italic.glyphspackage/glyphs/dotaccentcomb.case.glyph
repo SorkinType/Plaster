@@ -1,0 +1,39 @@
+{
+glyphname = dotaccentcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (575,1361);
+},
+{
+name = top;
+pos = (653,2000);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(821,1504,o),
+(938,1574,o),
+(938,1743,cs),
+(938,1862,o),
+(842,1910,o),
+(644,1910,cs),
+(428,1910,o),
+(298,1848,o),
+(298,1682,cs),
+(298,1564,o),
+(400,1504,o),
+(605,1504,cs)
+);
+}
+);
+width = 816;
+}
+);
+note = dotaccent.cap;
+}

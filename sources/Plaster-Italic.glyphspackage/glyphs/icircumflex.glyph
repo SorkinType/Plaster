@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = icircumflex;
+kernLeft = KO_icircumflex;
+kernRight = KO_icircumflex;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-163,0);
+ref = circumflexcomb;
+}
+);
+width = 856;
+}
+);
+note = icircumflex;
+unicode = 238;
+}

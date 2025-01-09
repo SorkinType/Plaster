@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = ibreve;
+kernLeft = KO_idotaccent;
+kernRight = KO_iacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-40,0);
+ref = brevecomb;
+}
+);
+width = 856;
+}
+);
+note = ibreve;
+unicode = 301;
+}

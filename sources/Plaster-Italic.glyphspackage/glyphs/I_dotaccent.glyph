@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = Idotaccent;
+kernLeft = KO_I;
+kernRight = KO_I;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-1,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 814;
+}
+);
+note = Idotaccent;
+unicode = 304;
+}

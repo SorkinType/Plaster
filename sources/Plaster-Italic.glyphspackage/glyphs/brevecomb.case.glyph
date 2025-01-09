@@ -1,0 +1,34 @@
+{
+glyphname = brevecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (636,1361);
+},
+{
+name = top;
+pos = (701,1890);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(304,1742,o),
+(395,1578,o),
+(665,1578,cs),
+(934,1578,o),
+(1064,1743,o),
+(1089,1946,c),
+(329,1946,l)
+);
+}
+);
+width = 940;
+}
+);
+note = breve.cap;
+}

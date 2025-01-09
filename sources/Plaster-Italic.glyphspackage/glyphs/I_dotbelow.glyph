@@ -1,0 +1,22 @@
+{
+color = 5;
+glyphname = Idotbelow;
+kernLeft = KO_I;
+kernRight = KO_I;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-81,0);
+ref = dotbelowcomb;
+}
+);
+width = 814;
+}
+);
+unicode = 7882;
+}

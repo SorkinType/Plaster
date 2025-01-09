@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = tdotaccent;
+kernLeft = KO_t;
+kernRight = KO_tcedilla;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (381,271);
+ref = dotaccentcomb;
+}
+);
+width = 1260;
+}
+);
+note = uni1E6B;
+unicode = 7787;
+}

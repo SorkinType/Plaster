@@ -1,0 +1,34 @@
+{
+glyphname = asciitilde;
+kernLeft = KO_asciitilde;
+kernRight = KO_asciitilde;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1087,613,l),
+(1122,895,l),
+(794,630,l),
+(494,900,l),
+(167,628,l),
+(133,351,l),
+(459,628,l),
+(760,351,l)
+);
+}
+);
+width = 1102;
+}
+);
+note = asciitilde;
+unicode = 126;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
+}

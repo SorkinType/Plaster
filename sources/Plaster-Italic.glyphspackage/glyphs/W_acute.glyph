@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = Wacute;
+kernLeft = KO_U;
+kernRight = KO_J;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (664,0);
+ref = acutecomb.case;
+}
+);
+width = 2229;
+}
+);
+note = Wacute;
+unicode = 7810;
+}

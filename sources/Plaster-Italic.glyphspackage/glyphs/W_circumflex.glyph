@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = Wcircumflex;
+kernLeft = KO_U;
+kernRight = KO_J;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (344,0);
+ref = circumflexcomb.case;
+}
+);
+width = 2229;
+}
+);
+note = Wcircumflex;
+unicode = 372;
+}

@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = Lcaron;
+kernLeft = KO_H;
+kernRight = KO_Lcaron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (821,0);
+ref = caroncomb.alt;
+}
+);
+width = 1384;
+}
+);
+note = Lcaron;
+unicode = 317;
+}

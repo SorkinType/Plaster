@@ -1,0 +1,47 @@
+{
+glyphname = approxequal;
+kernLeft = KO_approxequal;
+kernRight = KO_approxequal;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1044,262,l),
+(1079,544,l),
+(751,279,l),
+(451,549,l),
+(124,277,l),
+(90,0,l),
+(416,277,l),
+(717,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1121,884,l),
+(1155,1166,l),
+(828,901,l),
+(528,1171,l),
+(200,899,l),
+(166,622,l),
+(492,899,l),
+(793,622,l)
+);
+}
+);
+width = 1102;
+}
+);
+note = approxequal;
+unicode = 8776;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
+}

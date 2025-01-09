@@ -1,0 +1,23 @@
+{
+color = 9;
+glyphname = Saltillo;
+kernRight = KO_Saltillo;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(754,634,l),
+(880,1661,l),
+(342,1661,l),
+(216,634,l)
+);
+}
+);
+width = 814;
+}
+);
+unicode = 42891;
+}

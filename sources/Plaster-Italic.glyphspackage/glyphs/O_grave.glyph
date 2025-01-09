@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = Ograve;
+kernLeft = KO_O;
+kernRight = KO_O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (340,0);
+ref = gravecomb.case;
+}
+);
+width = 1578;
+}
+);
+note = Ograve;
+unicode = 210;
+}

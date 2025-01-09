@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = itilde;
+kernLeft = KO_itilde;
+kernRight = KO_itilde;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-120,0);
+ref = tildecomb;
+}
+);
+width = 856;
+}
+);
+note = itilde;
+unicode = 297;
+}

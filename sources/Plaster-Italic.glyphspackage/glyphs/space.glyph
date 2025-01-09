@@ -1,0 +1,17 @@
+{
+glyphname = space;
+layers = (
+{
+layerId = m01;
+width = 225;
+}
+);
+note = space;
+unicode = 32;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

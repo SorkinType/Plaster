@@ -1,0 +1,22 @@
+{
+color = 5;
+glyphname = Edotbelow;
+kernLeft = KO_H;
+kernRight = KO_E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (270,0);
+ref = dotbelowcomb;
+}
+);
+width = 1450;
+}
+);
+unicode = 7864;
+}

@@ -1,0 +1,70 @@
+{
+color = 9;
+glyphname = Eturned;
+kernLeft = KO_Eturned;
+kernRight = KO_H;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (692,0);
+},
+{
+name = ogonek;
+pos = (79,10);
+},
+{
+name = top;
+pos = (859,1361);
+},
+{
+name = topright;
+pos = (1606,1361);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(787,1361,l),
+(292,1361,l),
+(237,913,l),
+(492,913,ls),
+(623,913,o),
+(745,1017,o),
+(760,1140,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(1492,1361,l),
+(954,1361,l),
+(884,786,l),
+(453,786,l),
+(434,635,l),
+(865,635,l),
+(787,2,l),
+(1325,2,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(652,253,ls),
+(677,457,o),
+(547,526,o),
+(432,526,cs),
+(190,526,l),
+(125,0,l),
+(621,0,l)
+);
+}
+);
+width = 1450;
+}
+);
+unicode = 398;
+}

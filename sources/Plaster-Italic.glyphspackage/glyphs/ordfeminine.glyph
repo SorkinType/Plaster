@@ -1,0 +1,55 @@
+{
+glyphname = ordfeminine;
+kernLeft = KO_ordmasculine;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1228,1007,o),
+(1260,920,o),
+(1337,848,cs),
+(1424,767,o),
+(1546,734,o),
+(1690,735,cs),
+(1790,736,l),
+(1882,1487,l),
+(1287,1487,l),
+(1241,1113,ls)
+);
+},
+{
+closed = 1;
+nodes = (
+(1119,1487,l),
+(1022,1487,ls),
+(866,1487,o),
+(738,1453,o),
+(638,1380,cs),
+(545,1312,o),
+(474,1206,o),
+(474,1067,cs),
+(474,980,o),
+(509,907,o),
+(575,846,cs),
+(654,773,o),
+(768,733,o),
+(924,735,cs),
+(1027,736,l)
+);
+}
+);
+width = 2040;
+}
+);
+note = ordfeminine;
+unicode = 170;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
+}

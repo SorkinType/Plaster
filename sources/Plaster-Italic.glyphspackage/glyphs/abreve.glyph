@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = abreve;
+kernLeft = KO_a;
+kernRight = KO_aacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (239,0);
+ref = brevecomb;
+}
+);
+width = 1469;
+}
+);
+note = abreve;
+unicode = 259;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = tcedilla;
+kernLeft = KO_t;
+kernRight = KO_tcedilla;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = t;
+}
+);
+width = 1534;
+}
+);
+note = tcommaaccent;
+unicode = 355;
+}

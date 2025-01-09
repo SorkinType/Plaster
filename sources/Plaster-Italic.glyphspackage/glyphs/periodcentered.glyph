@@ -1,0 +1,36 @@
+{
+glyphname = periodcentered;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(710,444,o),
+(827,514,o),
+(827,683,cs),
+(827,802,o),
+(731,850,o),
+(533,850,cs),
+(317,850,o),
+(187,788,o),
+(187,622,cs),
+(187,504,o),
+(289,444,o),
+(494,444,cs)
+);
+}
+);
+width = 854;
+}
+);
+note = periodcentered;
+unicode = 183;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

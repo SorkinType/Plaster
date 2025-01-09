@@ -1,0 +1,66 @@
+{
+glyphname = guillemetright;
+kernLeft = KO_guillemetright;
+kernRight = KO_guillemetright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1963,510,l),
+(1265,1128,l),
+(1234,878,l),
+(1666,510,l),
+(1143,138,l),
+(1113,-108,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1122,510,l),
+(424,1128,l),
+(393,878,l),
+(825,510,l),
+(302,138,l),
+(272,-108,l)
+);
+}
+);
+userData = {
+assembly = "PUSHW[ ]	/* 4 values pushed */
+4 7 8 4
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 1 value pushed */
+8
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+6
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+4
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+13
+MDRP[11100]	/* MoveDirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 3 values pushed */
+3 5 3
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */";
+};
+width = 2224;
+}
+);
+note = guillemotright;
+unicode = 187;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

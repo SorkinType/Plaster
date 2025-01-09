@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = Tcedilla;
+kernLeft = KO_T;
+kernRight = KO_T;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (539,0);
+ref = cedillacomb.case;
+}
+);
+width = 1790;
+}
+);
+note = Tcommaaccent;
+unicode = 354;
+}

@@ -1,0 +1,22 @@
+{
+color = 5;
+glyphname = Gcaron;
+kernLeft = KO_O;
+kernRight = KO_G;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = G;
+},
+{
+pos = (180,0);
+ref = caroncomb.case;
+}
+);
+width = 1549;
+}
+);
+unicode = 486;
+}

@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = Atilde;
+kernLeft = KO_A;
+kernRight = KO_A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (299,0);
+ref = tildecomb.case;
+}
+);
+width = 1536;
+}
+);
+note = Atilde;
+unicode = 195;
+}

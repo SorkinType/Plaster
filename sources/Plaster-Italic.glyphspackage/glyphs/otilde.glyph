@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = otilde;
+kernLeft = KO_atilde;
+kernRight = KO_o;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (177,0);
+ref = tildecomb;
+}
+);
+width = 1436;
+}
+);
+note = otilde;
+unicode = 245;
+}

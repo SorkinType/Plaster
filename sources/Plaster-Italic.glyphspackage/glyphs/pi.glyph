@@ -1,0 +1,51 @@
+{
+glyphname = pi;
+kernLeft = KO_pi;
+kernRight = KO_pi;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1746,850,l),
+(1788,1190,l),
+(378,1190,l),
+(336,850,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1113,263,o),
+(1109,178,o),
+(1134,112,cs),
+(1163,36,o),
+(1248,0,o),
+(1381,0,cs),
+(1471,0,l),
+(1554,680,l),
+(1164,680,l),
+(1134,435,ls)
+);
+},
+{
+closed = 1;
+nodes = (
+(791,0,l),
+(874,680,l),
+(485,680,l),
+(402,0,l)
+);
+}
+);
+width = 1874;
+}
+);
+note = pi;
+unicode = 960;
+userData = {
+KernOnName = pi;
+};
+}

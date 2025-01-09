@@ -1,0 +1,23 @@
+{
+glyphname = Emacrongrave;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (303,0);
+ref = macroncomb.case;
+},
+{
+pos = (354,360);
+ref = gravecomb.case;
+}
+);
+width = 1450;
+}
+);
+unicode = 7700;
+}

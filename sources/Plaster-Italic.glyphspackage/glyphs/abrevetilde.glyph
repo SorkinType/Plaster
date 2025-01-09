@@ -1,0 +1,23 @@
+{
+glyphname = abrevetilde;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (239,0);
+ref = brevecomb;
+},
+{
+pos = (227,501);
+ref = tildecomb;
+}
+);
+width = 1469;
+}
+);
+unicode = 7861;
+}

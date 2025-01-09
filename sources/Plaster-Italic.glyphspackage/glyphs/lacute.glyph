@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = lacute;
+kernLeft = KO_l;
+kernRight = KO_l;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = l;
+},
+{
+pos = (62,170);
+ref = acutecomb.case;
+}
+);
+width = 678;
+}
+);
+note = lacute;
+unicode = 314;
+}

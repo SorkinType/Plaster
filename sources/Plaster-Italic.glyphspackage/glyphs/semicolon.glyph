@@ -1,0 +1,60 @@
+{
+glyphname = semicolon;
+kernLeft = KO_semicolon;
+kernRight = KO_semicolon;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(740,688,o),
+(857,758,o),
+(857,927,cs),
+(857,1046,o),
+(761,1094,o),
+(563,1094,cs),
+(347,1094,o),
+(217,1032,o),
+(217,866,cs),
+(217,747,o),
+(320,688,o),
+(524,688,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(466,-230,o),
+(547,-206,o),
+(621,-156,cs),
+(698,-104,o),
+(740,-44,o),
+(749,28,cs),
+(771,207,ls),
+(787,337,o),
+(695,406,o),
+(480,406,cs),
+(261,406,o),
+(134,333,o),
+(134,207,cs),
+(134,74,o),
+(210,5,o),
+(412,0,c),
+(383,-230,l)
+);
+}
+);
+width = 854;
+}
+);
+note = semicolon;
+unicode = 59;
+userData = {
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
+};
+}

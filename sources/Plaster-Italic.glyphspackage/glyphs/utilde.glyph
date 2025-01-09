@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = utilde;
+kernLeft = KO_u;
+kernRight = KO_d;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (210,0);
+ref = tildecomb;
+}
+);
+width = 1502;
+}
+);
+note = utilde;
+unicode = 361;
+}

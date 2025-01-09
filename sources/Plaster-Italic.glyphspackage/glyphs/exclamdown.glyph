@@ -1,0 +1,46 @@
+{
+glyphname = exclamdown;
+kernLeft = KO_exclamdown;
+kernRight = KO_exclamdown;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(418,1005,o),
+(515,955,o),
+(716,955,cs),
+(932,955,o),
+(1059,1015,o),
+(1059,1190,cs),
+(1059,1308,o),
+(973,1361,o),
+(777,1361,cs),
+(555,1361,o),
+(418,1289,o),
+(418,1123,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(870,-339,l),
+(956,682,l),
+(405,682,l),
+(240,-339,l)
+);
+}
+);
+width = 1194;
+}
+);
+note = exclamdown;
+unicode = 161;
+userData = {
+KernOnSpecialSpacing = {
+R = "spaced-off";
+};
+};
+}

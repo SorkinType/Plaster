@@ -1,0 +1,20 @@
+{
+color = 0;
+glyphname = gcommaaccent;
+kernLeft = KO_a;
+kernRight = KO_gcommaaccent;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = g;
+}
+);
+width = 1534;
+}
+);
+note = gcommaaccent;
+unicode = 291;
+}

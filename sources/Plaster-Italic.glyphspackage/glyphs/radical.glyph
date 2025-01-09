@@ -1,0 +1,28 @@
+{
+glyphname = radical;
+kernRight = KO_radical;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(475,680,l),
+(253,680,l),
+(638,-337,l),
+(638,-339,l),
+(639,-340,l),
+(639,-337,l),
+(1526,1360,l),
+(1292,1360,l),
+(680,123,l)
+);
+}
+);
+width = 1529;
+}
+);
+note = radical;
+unicode = 8730;
+}

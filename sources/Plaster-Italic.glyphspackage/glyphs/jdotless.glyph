@@ -1,0 +1,40 @@
+{
+color = 9;
+glyphname = jdotless;
+kernLeft = KO_jcircumflex;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (530,-560);
+},
+{
+name = top;
+pos = (724,1020);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(351,-508,ls),
+(516,-508,o),
+(643,-462,o),
+(732,-366,cs),
+(806,-286,o),
+(854,-166,o),
+(874,-3,cs),
+(1000,1020,l),
+(462,1020,l),
+(274,-508,l)
+);
+}
+);
+width = 1196;
+}
+);
+note = dotlessj;
+unicode = 567;
+}

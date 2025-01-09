@@ -1,0 +1,23 @@
+{
+glyphname = Ocircumflexhookabove;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (171,0);
+ref = circumflexcomb.case;
+},
+{
+pos = (638,980);
+ref = hookabovecomb;
+}
+);
+width = 1578;
+}
+);
+unicode = 7892;
+}

@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = obreve;
+kernLeft = KO_a;
+kernRight = KO_o;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (257,0);
+ref = brevecomb;
+}
+);
+width = 1436;
+}
+);
+note = obreve;
+unicode = 335;
+}

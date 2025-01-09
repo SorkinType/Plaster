@@ -1,0 +1,25 @@
+{
+color = 9;
+glyphname = j;
+kernLeft = KO_j;
+kernRight = KO_j;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-189,0);
+ref = jdotless;
+},
+{
+pos = (1,0);
+ref = dotaccentcomb;
+}
+);
+width = 816;
+}
+);
+note = j;
+unicode = 106;
+}

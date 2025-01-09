@@ -1,0 +1,22 @@
+{
+color = 5;
+glyphname = Ndotbelow;
+kernLeft = KO_Aogonek;
+kernRight = KO_N;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (277,0);
+ref = dotbelowcomb;
+}
+);
+width = 1492;
+}
+);
+unicode = 7750;
+}

@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = Sdotaccent;
+kernLeft = KO_S;
+kernRight = KO_Sdotaccent;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (188,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 1526;
+}
+);
+note = uni1E60;
+unicode = 7776;
+}

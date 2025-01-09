@@ -1,0 +1,35 @@
+{
+glyphname = tildecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (655,1361);
+},
+{
+name = top;
+pos = (734,2000);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1226,1742,l),
+(1261,2024,l),
+(933,1759,l),
+(633,2029,l),
+(306,1757,l),
+(272,1480,l),
+(598,1757,l),
+(899,1480,l)
+);
+}
+);
+width = 1102;
+}
+);
+note = tilde.cap;
+}

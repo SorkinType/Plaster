@@ -1,0 +1,16 @@
+{
+glyphname = periodcentered.loclCAT.case;
+kernRight = KO_period;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,467);
+ref = period;
+}
+);
+width = 776;
+}
+);
+}

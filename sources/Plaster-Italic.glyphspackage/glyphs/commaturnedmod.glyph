@@ -1,0 +1,45 @@
+{
+glyphname = commaturnedmod;
+kernLeft = KO_commaturnedmod;
+kernRight = KO_commaturnedmod;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (535,1020);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(496,1791,o),
+(298,1693,o),
+(279,1538,cs),
+(265,1424,ls),
+(249,1294,o),
+(341,1225,o),
+(556,1225,cs),
+(774,1225,o),
+(904,1285,o),
+(904,1456,cs),
+(904,1560,o),
+(822,1626,o),
+(624,1631,c),
+(644,1791,l)
+);
+}
+);
+width = 817;
+}
+);
+unicode = 699;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

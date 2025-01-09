@@ -1,0 +1,56 @@
+{
+color = 9;
+glyphname = D;
+kernLeft = KO_H;
+kernRight = KO_D;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (784,0);
+},
+{
+name = center;
+pos = (484,681);
+},
+{
+name = top;
+pos = (951,1361);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(913,0,ls),
+(1091,0,o),
+(1234,68,o),
+(1341,205,cs),
+(1484,388,o),
+(1565,724,o),
+(1538,993,cs),
+(1513,1242,o),
+(1357,1361,o),
+(1080,1361,cs),
+(996,1361,l),
+(829,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(663,2,l),
+(830,1361,l),
+(292,1361,l),
+(125,2,l)
+);
+}
+);
+width = 1534;
+}
+);
+note = D;
+unicode = 68;
+}

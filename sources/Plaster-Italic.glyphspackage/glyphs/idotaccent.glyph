@@ -1,0 +1,24 @@
+{
+color = 5;
+glyphname = idotaccent;
+kernLeft = KO_idotaccent;
+kernRight = KO_idotaccent;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (19,0);
+ref = dotaccentcomb;
+}
+);
+width = 856;
+}
+);
+userData = {
+KernOnName = idotaccent;
+};
+}

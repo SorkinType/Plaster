@@ -1,0 +1,21 @@
+{
+color = 5;
+glyphname = fdotaccent;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = f;
+},
+{
+pos = (202,529);
+ref = dotaccentcomb;
+}
+);
+width = 1158;
+}
+);
+note = uni1E1F;
+unicode = 7711;
+}

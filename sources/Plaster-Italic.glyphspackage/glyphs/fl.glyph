@@ -1,0 +1,22 @@
+{
+glyphname = fl;
+kernLeft = KO_f;
+kernRight = KO_l;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = f;
+},
+{
+pos = (1222,0);
+ref = l;
+}
+);
+width = 1900;
+}
+);
+note = fl;
+unicode = 64258;
+}

@@ -1,0 +1,54 @@
+{
+glyphname = asciicircum;
+kernLeft = KO_asciicircum;
+kernRight = KO_asciicircum;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(909,1226,l),
+(1233,512,l),
+(1408,607,l),
+(952,1571,l),
+(275,607,l),
+(427,512,l)
+);
+}
+);
+userData = {
+assembly = "PUSHW[ ]	/* 4 values pushed */
+2 7 0 4
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 3 values pushed */
+4 0 2
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 1 value pushed */
+2
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+7
+MDRP[11100]	/* MoveDirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 4 values pushed */
+1 4 5 4
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */";
+};
+width = 1533;
+}
+);
+note = asciicircum;
+unicode = 94;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
+}

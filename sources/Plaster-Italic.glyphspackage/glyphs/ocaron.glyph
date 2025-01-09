@@ -1,0 +1,22 @@
+{
+color = 5;
+glyphname = ocaron;
+kernLeft = KO_a;
+kernRight = KO_o;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (137,0);
+ref = caroncomb;
+}
+);
+width = 1436;
+}
+);
+unicode = 466;
+}

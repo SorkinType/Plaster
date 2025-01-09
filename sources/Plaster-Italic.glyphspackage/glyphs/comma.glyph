@@ -1,0 +1,43 @@
+{
+glyphname = comma;
+kernLeft = KO_comma;
+kernRight = KO_comma;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(427,-230,o),
+(508,-206,o),
+(582,-156,cs),
+(659,-104,o),
+(701,-44,o),
+(710,28,cs),
+(732,207,ls),
+(748,337,o),
+(656,406,o),
+(441,406,cs),
+(217,406,o),
+(112,345,o),
+(95,207,cs),
+(79,77,o),
+(167,5,o),
+(373,0,c),
+(344,-230,l)
+);
+}
+);
+width = 777;
+}
+);
+note = comma;
+unicode = 44;
+userData = {
+KernOnSpecialSpacing = {
+L = period;
+R = period;
+};
+};
+}

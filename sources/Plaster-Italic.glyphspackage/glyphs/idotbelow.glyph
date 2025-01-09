@@ -1,0 +1,26 @@
+{
+color = 5;
+glyphname = idotbelow;
+kernLeft = KO_idotaccent;
+kernRight = KO_idotaccent;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (19,0);
+ref = dotaccentcomb;
+},
+{
+pos = (-60,0);
+ref = dotbelowcomb;
+}
+);
+width = 856;
+}
+);
+unicode = 7883;
+}

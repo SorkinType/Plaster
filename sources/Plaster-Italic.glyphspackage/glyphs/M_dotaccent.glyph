@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = Mdotaccent;
+kernLeft = KO_H;
+kernRight = KO_Mdotaccent;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = M;
+},
+{
+pos = (737,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 2247;
+}
+);
+note = uni1E40;
+unicode = 7744;
+}

@@ -1,0 +1,22 @@
+{
+color = 5;
+glyphname = Bdotbelow;
+kernLeft = KO_Aogonek;
+kernRight = KO_B;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = B;
+},
+{
+pos = (295,0);
+ref = dotbelowcomb;
+}
+);
+width = 1550;
+}
+);
+unicode = 7684;
+}

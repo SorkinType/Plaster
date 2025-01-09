@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = Bdotaccent;
+kernLeft = KO_Aogonek;
+kernRight = KO_AE;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = B;
+},
+{
+pos = (375,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 1550;
+}
+);
+note = uni1E02;
+unicode = 7682;
+}

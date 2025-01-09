@@ -1,0 +1,32 @@
+{
+glyphname = caroncomb.alt;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(268,937,ls),
+(461,937,o),
+(547,980,o),
+(591,1084,cs),
+(612,1134,o),
+(631,1213,o),
+(645,1328,cs),
+(677,1586,l),
+(285,1586,l),
+(205,937,l)
+);
+}
+);
+width = 572;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

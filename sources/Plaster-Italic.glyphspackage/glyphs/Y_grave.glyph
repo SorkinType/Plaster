@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = Ygrave;
+kernLeft = KO_U;
+kernRight = KO_H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (298,0);
+ref = gravecomb.case;
+}
+);
+width = 1491;
+}
+);
+note = Ygrave;
+unicode = 7922;
+}

@@ -1,0 +1,38 @@
+{
+glyphname = emdash;
+kernLeft = KO_emdash;
+kernRight = KO_emdash;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1929,479,l),
+(1950,650,l),
+(250,650,l),
+(229,479,l)
+);
+}
+);
+userData = {
+assembly = "SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 4 values pushed */
+1 2 2 4
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */";
+};
+width = 2046;
+}
+);
+note = emdash;
+unicode = 8212;
+userData = {
+KernOnSpecialSpacing = {
+L = dashes;
+R = dashes;
+};
+};
+}

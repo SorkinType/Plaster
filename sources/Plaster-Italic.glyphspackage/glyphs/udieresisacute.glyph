@@ -1,0 +1,23 @@
+{
+glyphname = udieresisacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (154,0);
+ref = dieresiscomb;
+},
+{
+pos = (485,485);
+ref = acutecomb;
+}
+);
+width = 1502;
+}
+);
+unicode = 472;
+}
