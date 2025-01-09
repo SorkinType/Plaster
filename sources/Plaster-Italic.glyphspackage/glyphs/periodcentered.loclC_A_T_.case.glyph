@@ -6,7 +6,7 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (0,467);
+pos = (57,467);
 ref = period;
 }
 );
