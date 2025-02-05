@@ -12,7 +12,7 @@ pos = (169,0);
 ref = circumflexcomb.case;
 },
 {
-pos = (377,639);
+pos = (377,585);
 ref = tildecomb.case;
 }
 );

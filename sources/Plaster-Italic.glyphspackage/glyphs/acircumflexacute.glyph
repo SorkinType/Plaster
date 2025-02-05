@@ -8,11 +8,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (116,0);
+pos = (137,0);
 ref = circumflexcomb;
 },
 {
-pos = (451,634);
+pos = (454,558);
 ref = acutecomb;
 }
 );

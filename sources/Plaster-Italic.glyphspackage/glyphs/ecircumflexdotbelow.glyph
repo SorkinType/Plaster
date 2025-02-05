@@ -20,7 +20,7 @@ pos = (220,0);
 ref = dotbelowcomb;
 },
 {
-pos = (117,0);
+pos = (138,0);
 ref = circumflexcomb;
 }
 );

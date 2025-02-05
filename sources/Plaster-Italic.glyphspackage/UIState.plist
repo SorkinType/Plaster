@@ -4,6 +4,10 @@ A,
 Q,
 f,
 "/brevecomb.case Ă",
-"/dieresiscomb.case Ä"
+"/dieresiscomb.case Ä",
+"̂̃ỗ",
+"/tildecomb.case Ẵ",
+"/circumflexcomb.case Ẫ",
+"/caroncomb.case Ǩ"
 );
 }

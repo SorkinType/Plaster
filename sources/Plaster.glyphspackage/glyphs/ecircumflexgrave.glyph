@@ -12,7 +12,7 @@ pos = (117,0);
 ref = circumflexcomb;
 },
 {
-pos = (214,634);
+pos = (214,561);
 ref = gravecomb;
 }
 );
