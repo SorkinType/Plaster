@@ -1,5 +1,10 @@
 {
 displayStrings = (
-A
+A,
+"/brevecomb.case AĂ",
+"/tildecomb.case Ẵ",
+"/circumflexcomb.case Ẫ",
+"K/caroncomb.case Ǩ",
+"8"
 );
 }

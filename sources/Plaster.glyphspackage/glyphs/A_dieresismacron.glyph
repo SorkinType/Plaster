@@ -11,11 +11,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (159,0);
+pos = (140,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (332,494);
+pos = (313,494);
 ref = macroncomb.case;
 }
 );

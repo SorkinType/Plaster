@@ -8,11 +8,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (318,0);
+pos = (299,0);
 ref = brevecomb.case;
 },
 {
-pos = (516,870);
+pos = (497,870);
 ref = hookabovecomb;
 }
 );

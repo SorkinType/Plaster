@@ -8,11 +8,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (169,0);
+pos = (150,0);
 ref = circumflexcomb.case;
 },
 {
-pos = (516,980);
+pos = (497,910);
 ref = hookabovecomb;
 }
 );

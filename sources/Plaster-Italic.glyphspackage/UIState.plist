@@ -2,6 +2,8 @@
 displayStrings = (
 A,
 Q,
-f
+f,
+"/brevecomb.case Ă",
+"/dieresiscomb.case Ä"
 );
 }
